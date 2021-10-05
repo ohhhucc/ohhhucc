@@ -4,7 +4,17 @@
 
 <h1> Greetings! </h1>
 <p> :upside_down_face: My name is Igor, and you are in my github <code>portfolio</code>, where I collect my <code>educational</code>, <code>non-commercial</code> projects. </p>
-<p> :rocket: For about a year now I have been engaged in front-end development, studied at the Moscow coding school, practiced new technologies. </p> 
-<p> :computer: At the moment I am actively looking for a job. </p>
+<p> :computer: For over a <code>year</code> I have been engaged in <code>frontend</code> development, studied at the <a href='https://moscoding.ru/'>Moscow Coding School</a>, practiced new <code>technologies</code>. </p> 
+<p> :rocket: At the moment I am actively looking for a <code>job</code>. </p>
 
 <h2> Languages and tools </h2>
+<span>
+  <img src='https://img.shields.io/badge/-HTML-ffff85?style=for-the-badge&logo=html5'>
+  <img src='https://img.shields.io/badge/-CSS-ffff85?style=for-the-badge&logo=css3'>
+  <img src='https://img.shields.io/badge/-JAVASCRIPT-ffff85?style=for-the-badge&logo=javascript'>
+  <img src='https://img.shields.io/badge/-REACT-ffff85?style=for-the-badge&logo=react'>
+  <img src='https://img.shields.io/badge/-ROUTER-ffff85?style=for-the-badge&logo=reactrouter'>
+  <img src='https://img.shields.io/badge/-REDUX-ffff85?style=for-the-badge&logo=redux'>
+  <img src='https://img.shields.io/badge/-SAGA-ffff85?style=for-the-badge&logo=reduxsaga'>
+  <img src='https://img.shields.io/badge/-GIT-ffff85?style=for-the-badge&logo=git'>
+</span>
