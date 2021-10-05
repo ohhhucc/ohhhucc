@@ -18,3 +18,18 @@
   <img src='https://img.shields.io/badge/-SAGA-ffff85?style=for-the-badge&logo=reduxsaga'>
   <img src='https://img.shields.io/badge/-GIT-ffff85?style=for-the-badge&logo=git'>
 </span>
+
+<h2> SPA's </h2>
+
+<ul>
+  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/crud">CRUD</a></li>
+  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/saga">SAGA</a></li>
+  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/star-wars">STAR-WARS</a> (WIP)</li>
+  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/sneaks">SNEAKS</a> (WIP)</li>
+  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/cu-op">CU-OP</a> (WIP)</li>
+</ul>
+
+<h2> Contact me </h2>
+
+<a href="https://t.me/ohhhucc"><img src='https://img.shields.io/badge/-TELEGRAM-8fff8f?style=for-the-badge&logo=telegram'></a>
+<a href="https://vk.com/ohhhucc"><img src='https://img.shields.io/badge/-VK-8fff8f?style=for-the-badge&logo=vk'></a>
