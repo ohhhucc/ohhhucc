@@ -22,9 +22,9 @@
 <h2> SPA's </h2>
 
 <ul>
-  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/crud">CRUD</a></li>
-  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/saga">SAGA</a></li>
-  <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/star-wars">STAR-WARS</a> (WIP)</li>
+  <li><a href="https://github.com/ohhhucc/crud-ui">CRUD</a></li>
+  <li><a href="https://github.com/ohhhucc/saga-practice">SAGA</a></li>
+  <li><a href="https://github.com/ohhhucc/star-wars">STAR-WARS</a> (WIP)</li>
   <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/sneaks">SNEAKS</a> (WIP)</li>
   <li><a href="https://github.com/ohhhucc/non_profit_projects/tree/main/cu-op">CU-OP</a> (WIP)</li>
 </ul>
