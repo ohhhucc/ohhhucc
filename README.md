@@ -3,7 +3,7 @@
 </p>
 
 <h1> Greetings! </h1>
-<p> :upside_down_face: My name is Igor, and you are in my github <code>portfolio</code>, where I collect my <code>educational</code>, <code>non-commercial</code> projects. </p>
+<p> :upside_down_face: My name is Igor, and you are in my github <code>portfolio</code>, where I collect my <code>educational</code>, <code>pet</code> projects. </p>
 <p> :computer: For over a <code>year</code> I have been engaged in <code>frontend</code> development, studied at the <a href='https://moscoding.ru/'>Moscow Coding School</a>, practiced new <code>technologies</code>. </p> 
 <p> :rocket: At the moment I am actively looking for a <code>job</code>. </p>
 
